@@ -8,6 +8,7 @@ namespace Lab1
         {
             Console.WriteLine("Hello Vadim!");
             Console.WriteLine("Vadim Blyat!");
+            Console.WriteLine("Hello Boris!");
         }
     }
 }
